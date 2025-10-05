@@ -11,7 +11,7 @@
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mqacim&layout=compact&title_color=0A66C2&text_color=2E3A59&bg_color=ffffff&hide_border=true)](https://github.com/mqacim)
 
 <!-- Repo Update Badge -->
-[![Repo Updates](https://img.shields.io/github/last-commit/mqacim/mqacim.github.io?label=Last%20Update&style=flat-square&color=00B8D9)](https://github.com/mqacim/mqacim)
+[![Repo Updates](https://img.shields.io/github/last-commit/mqacim/mqacim.github.io?label=Last%20Update&style=flat-square&color=00B8D9)](https://github.com/mqacim/mqacim/README.md)
 
 ---
 

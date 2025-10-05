@@ -10,7 +10,7 @@
 <p align="center">
   <a href="https://mqacim.github.io/"><img src="https://komarev.com/ghpvc/?username=mqacim&style=flat-square&color=0A66C2" alt="Profile views"/></a>
   <a href="https://www.linkedin.com/in/m-qasim/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://github.com/mqacim/mqacim"><img src="https://img.shields.io/github/last-commit/mqacim/mqacim?label=Last%20Update&style=flat-square&color=00B8D9" alt="Last Updated"/></a>
+  <a href="https://github.com/mqacim/mqacim"><img src="https://img.shields.io/github/last-commit/mqacim/mqacim?label=Last%20Updated&style=flat-square&color=00B8D9" alt="Last Updated"/></a>
 </p>
 
 ---

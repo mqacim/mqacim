@@ -59,11 +59,5 @@ Final Project: _Speech-Controlled Vehicle_
 
 ---
 
-### 🌍 Community & Impact
-- ⭐ GitHub Stars: ![Stars](https://img.shields.io/github/stars/mqacim?style=flat-square&color=0A66C2)  
-- 📖 [Google Scholar](https://scholar.google.com/citations?hl=en&user=E5h7Z2kAAAAJ)  
-
----
-
 > _© Muhammad Qasim — Last updated: Oct 2025_  
 > _This README automatically switches between light and dark themes based on your browser or GitHub settings._

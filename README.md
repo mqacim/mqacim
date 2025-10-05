@@ -41,12 +41,8 @@ Built Urdu ASR and dialogue systems. Deployed weather helpline handling 23,997 c
 ### 🎓 Education
 
 **MS, Computer Engineering** — UET Lahore  
-*CGPA 3.92 / 4.00*  
-Thesis: _Speech Emotion Recognition for Urdu Language_
 
 **B.Sc, Electrical Engineering** — UET Lahore  
-*CGPA 3.07 / 4.00*  
-Final Project: _Speech-Controlled Vehicle_
 
 ---
 

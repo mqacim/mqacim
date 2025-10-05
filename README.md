@@ -56,4 +56,4 @@ Built Urdu ASR and dialogue systems. Deployed weather helpline handling 23,997 c
 ---
 
 > _© Muhammad Qasim — Last updated: Oct 2025_  
-> _This README automatically switches between light and dark themes based on your browser or GitHub settings._
+<!--- > _This README automatically switches between light and dark themes based on your browser or GitHub settings._

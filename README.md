@@ -1,19 +1,25 @@
 [![Qasim's GitHub Banner](images/research-banner.png)](https://mqacim.github.io)
 
-[![Visits Badge](https://badges.pufler.dev/visits/mqacim/mqacim)](https://mqacim.github.io)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/m-qasim/)
-[![Years Badge](https://badges.pufler.dev/years/mqacim)](https://mqacim.github.io)
-[![Repos Badge](https://badges.pufler.dev/repos/mqacim)](https://mqacim.github.io)
-[![Updated Badge](https://badges.pufler.dev/updated/mqacim/mqacim.github.io)](https://mqacim.github.io)
-[![Commits Badge](https://badges.pufler.dev/commits/monthly/mqacim)](https://mqacim.github.io)
+<!-- Profile View Counter -->
+![Profile Views](https://komarev.com/ghpvc/?username=mqacim&style=flat&color=blue)
 
+<!-- LinkedIn Badge -->
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/m-qasim/)
+
+<!-- GitHub Stats -->
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mqacim&show_icons=true&theme=default)](https://github.com/mqacim)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mqacim&layout=compact)](https://github.com/mqacim)
+
+<!-- Updated Projects Info (optional) -->
+[![Repo Updates](https://img.shields.io/github/last-commit/mqacim/mqacim.github.io?label=Last%20update&style=flat)](https://github.com/mqacim/mqacim.github.io)
+
+---
 
 ## Hi there 👋
 
-I am Muhammad Qasim, an AI researcher, working on speech and language processing. 
+I am Muhammad Qasim, an AI researcher working on speech and language processing.
 
-[Profile Website](https://mqacim.github.io/)
-
+[🌐 Profile Website](https://mqacim.github.io/)
 
 <!--
 **mqacim/mqacim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

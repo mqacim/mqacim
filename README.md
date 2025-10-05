@@ -18,6 +18,7 @@
 
 ## Muhammad Qasim  
 **Natural Language Processing Engineer | AI Researcher**  
+[🌐 Profile Website](https://mqacim.github.io)
 <a href="https://www.linkedin.com/in/m-qasim/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 
 ---
